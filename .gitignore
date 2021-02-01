@@ -1,0 +1,6 @@
+bin/
+
+
+### vscode ###
+.vscode/
+*.code-workspace
